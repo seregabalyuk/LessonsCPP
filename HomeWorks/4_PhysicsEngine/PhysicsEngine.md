@@ -90,7 +90,3 @@ int main()
     return 0;
 }
 ```
-
-## Класс RigidBody
-
-Сообщишь, когда сделаешь Body.
