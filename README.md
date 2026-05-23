@@ -9,3 +9,4 @@
 6) - [x] [Задание на union](HomeWorks/6_union/union.md)
 7) - [ ] [Создать свой физический движок (продолжение)](HomeWorks/7_PhysicsEngine/PhysicsEngine.md)
 8) - [ ] [Задачи на list](HomeWorks/8_list/list.md)
+9) - [ ] [Теоретические задания на очередь и стек](HomeWorks/9_stack_queue/StackQueue.md)
